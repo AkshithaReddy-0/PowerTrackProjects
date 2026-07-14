@@ -18,7 +18,7 @@ The Car Black Box is an Embedded C project developed using the PIC16F877A microc
 - 16×2 Character LCD (CLCD)
 - DS1307 RTC Module
 - External EEPROM
-- Push Buttons
+- Digital Keypad
 - Potentiometer
 - UART Interface
 - Power Supply
